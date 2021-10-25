@@ -1,0 +1,2 @@
+# fxmanifest
+fxmanifest for noobies
