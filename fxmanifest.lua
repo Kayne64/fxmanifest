@@ -1,6 +1,6 @@
 -- Stating the FX Version and Game 
 fx_version 'cerulean'
-games "gta5"
+games 'gta5'
 
 -- Insert Author Name, Description and Version of Script
 author 'Insert Author Name'
